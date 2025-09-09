@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Raymond
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build something interesting!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build+something+interesting!)
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
