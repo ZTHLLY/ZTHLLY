@@ -32,10 +32,10 @@
 ### 🛠  Tech Stack
 
 + 💻  <code>
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</code> 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B) 
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) 
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+  <code>![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
   </code>
 + 🌐 <code><img height="20" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"></code>  <code>![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5) 
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1572B6?style=flat&logo=bootstrap)</code>  
@@ -54,10 +54,7 @@
   </code>
 + ☁️ ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud)
 + 🧰 <code>
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) 
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex) 
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) 
-  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)</code>  <code>![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)</code>  <code>![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)</code> <code>![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
   </code>
 
 <div align="center">
