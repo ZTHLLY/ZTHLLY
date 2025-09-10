@@ -53,8 +53,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
   </code>
 + ☁️ ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud)
-+ 🧰 <code>
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)</code>  <code>![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)</code>  <code>![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)</code> <code>![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
++ 🧰 <code>![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)</code>  <code>![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)</code>  <code>![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)</code> <code>![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
   </code>
 
 <div align="center">
