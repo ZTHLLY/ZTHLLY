@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img align="right" alt="GIF" width="360" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"/>
+  <img align="right" alt="GIF" width="300" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"/>
 </p>
 
 + 🌌 Master of IT student at Queensland University of Technology, building full-stack and backend systems in 🇦🇺
