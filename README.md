@@ -13,17 +13,16 @@
 
 
 
-- 🔭 Recently working on real-world engineering projects: backend APIs, feature design, data modeling, business logic, PR workflow, and cloud deployment.
-
-
-
-
 - 👯 Open to software engineering internship/part-time opportunities, especially backend / full-stack roles.
 
 
 
 
 - 📫 How to reach me: 2350354569@qq.com
+
+
+
+
 
 
 
